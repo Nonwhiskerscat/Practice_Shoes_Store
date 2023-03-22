@@ -1,0 +1,17 @@
+.gnb_small > ul {
+  position: absolute;
+  width: 150px;
+}
+
+.gnb_small > ul > li a {
+  display: block;
+  color: #aaa;
+  background-color: white;
+  padding: 2px 0;
+  text-decoration: none;
+}
+
+.gnb_small > ul > li a:hover {
+  text-decoration: underline;
+  color: #aaa;
+}
