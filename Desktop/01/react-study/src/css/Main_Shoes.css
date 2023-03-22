@@ -1,0 +1,22 @@
+.shoes_flex {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.shoes_flex > div {
+  width: 30%;
+  text-align: center;
+}
+
+.shoes_flex > div img {
+  width: 90%;
+}
+
+.shoes_flex > div h5 {
+  font-size: 1.2rem;
+}
+
+.shoes_flex > div p {
+  margin-top: 1.2rem;
+}
